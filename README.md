@@ -1,75 +1,11 @@
-# Nuxt 3 Minimal Starter
+[Main]
+<img width="1440" alt="스크린샷 2024-12-08 오후 7 08 54" src="https://github.com/user-attachments/assets/fbf5ee39-2191-4d27-bd09-9b54136c28b3">
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[Archives]
+<img width="1440" alt="스크린샷 2024-12-08 오후 7 09 19" src="https://github.com/user-attachments/assets/5c928da9-76dd-4e10-843c-b84a1d7f66bc">
 
-## Setup
+[Tags]
+<img width="1440" alt="스크린샷 2024-12-08 오후 7 09 01" src="https://github.com/user-attachments/assets/f91f2993-ad70-4f2e-af43-be1186633225">
 
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+[Posts]
+<img width="1440" alt="스크린샷 2024-12-08 오후 7 09 32" src="https://github.com/user-attachments/assets/fa899053-9aa5-4672-92fb-2d6435a2f0e2">
