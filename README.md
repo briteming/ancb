@@ -1,5 +1,5 @@
 [Main]
-<img width="1440" alt="스크린샷 2024-12-08 오후 7 08 54" src="https://github.com/user-attachments/assets/fbf5ee39-2191-4d27-bd09-9b54136c28b3">
+<img width="1440" alt="스크린샷 2024-12-08 오후 7 08 42" src="https://github.com/user-attachments/assets/1afe8696-afbb-4f24-8729-27f98a25b17a">
 
 [Archives]
 <img width="1440" alt="스크린샷 2024-12-08 오후 7 09 19" src="https://github.com/user-attachments/assets/5c928da9-76dd-4e10-843c-b84a1d7f66bc">
