@@ -1,5 +1,5 @@
 ---
-title: "JavaScript 최신 문법 통합본 - Operator(연산자) (ES6 - ES13)"
+title: "JavaScript入门"
 description: "JS 최신 문법 중 자주 쓰이는 Operator위주의 문법을 정리"
 draft: false
 head: true
