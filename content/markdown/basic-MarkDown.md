@@ -1,5 +1,5 @@
 ---
-title: "MarkDown 기초 문법"
+title: "MarkDown语法"
 description: "MarkDown 파일을 작성할 수 있는 기초적인 문법 Description"
 draft: false
 head: true
